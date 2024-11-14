@@ -1,4 +1,4 @@
-![sadas](https://github.com/user-attachments/assets/684296a2-358e-40c4-8158-049887fb88f5)Solana Airdrop Bot. This bot can get airdrop token for testing only, supports multiple chain network such as Solana, BTC, Ethereum. Solana-bot Meme token bots. autotrade, raydium bot, jupiter bot, autorade bot, trade bot
+Solana Airdrop Bot. This bot can get airdrop token for testing only, supports multiple chain network such as Solana, BTC, Ethereum. Solana-bot Meme token bots. autotrade, raydium bot, jupiter bot, autorade bot, trade bot
 
 # PurpleStar
 > [!TIP] 
